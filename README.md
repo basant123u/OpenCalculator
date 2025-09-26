@@ -1,4 +1,4 @@
-# Steps to use
+# Steps to use on TERMUX / LINUX
 
 git clone https://github.com/basant123u/OpenCalculator.git
 
